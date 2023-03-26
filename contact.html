@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="base.css">
+    <title>Saúdebicho - Contato</title>
+    <script>
+      function Evento(){
+          alert('Enviado com sucesso!')
+      }
+  </script>
+</head>
+<body>
+    <div class="all">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="index.html">Página Principal</a></li>
+                <li><a href="about.html">Sobre a clínica</a></li>
+                <li><a href="hour.html">Horário de Atendimento</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            
+            <figure id="header">
+                <!-- Aqui vai o seu header -->
+                <figcaption id="figc1"><p>Súdebicho</p></figcaption>
+                <figcaption id="figc2"><p>Clínica Veterinária</p></figcaption>
+                <img alt="Banner do site de clínica veterinária contendo uma médica veterinária usando bata azul olhando sorrindo para um cachorro que está atendendo" id="img" width="600" src="https://thumbs.dreamstime.com/b/veterinary-stethoscope-pocket-dog-cat-w-white-vet-clinic-banner-concept-100535272.jpg"/>
+            </figure>
+    
+            <div class="content">
+                <!-- Aqui vai o seu conteúdo -->
+                <h1>Contato:</h1>
+                <p>Fixo: (85) 3333-0000 | What's App: (85) 9 1234-5678</p>
+                <p>Endereço: Rua A - 123, Manga, CE</p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.388457705026!2d-38.49086185801827!3d-3.7251847393529625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c748713a15dacd%3A0xbe7146a773ff5307!2sJardim%20Japon%C3%AAs!5e0!3m2!1spt-BR!2sbr!4v1679774356615!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <br />
+                <form>
+                  <label for="name">Nome:</label>
+                  <input type="text" name="name" id="name" autocomplete=""><br />
+                  <label for="email">E-mail:</label>
+                  <input type="email" name="email" id="email" autocomplete=""><br />
+                  <label for="assunto">Assunto:</label>
+                  <input type="text" name="assunto" id="assunto"><br />
+                  <label for="message">Mensagem:</label><br />
+                  <textarea name="massage" id="message" cols="75" rows="10"></textarea><br />
+                  <button type="submit" onclick="Evento()">Enviar</button>
+                  <button type="reset">Limpar campos</button>
+                </form>
+            </div>
+    
+            <div class="footer">
+                <!-- Aqui vai o seu rodapé -->
+                <p>Saúdebicho<sup><small>TM</small></sup><br />
+                Todos os direitos reservados</p>
+                <p>CNPJ:22.718.922/0001-05<br />
+                Endereço: Rua A - 123, Manga, CE<br />
+                Fone: (85) 9 1234-5678</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

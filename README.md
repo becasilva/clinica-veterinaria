@@ -1,7 +1,9 @@
 # Trilha HTML - Dio.me
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+
 - Formulários
 - Estruturação e formatação de texto
 - Mídias
@@ -10,6 +12,7 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
 Além de outros recursos falados nas aulas!
 
 ## Instruções
+
 1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
 2. Este site deve conter o seguinte menu de navegação:
     - Página Principal
@@ -28,18 +31,22 @@ Todas as páginas terão que seguir um padrão pré-definido. Como não aprendem
 
 \* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
 
-No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
+No **Menu**, ficará localizado no menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
+
 ### Página Principal
+
 1. Deve ter uma imagem no **Header**.
 2. Em **Content** uma breve descrição sobre a clínica.
 3. **Menu** e **Footer** padrões em todas as páginas.
 
 ### Sobre a clínica
+
 1. Deve ter uma imagem diferente no **Header**.
 2. Em **Content** um texto falando sobre a clínica.
 3. **Menu** e **Footer** padrões em todas as páginas.
 
 ### Horário de Atendimento
+
 1. Deve ter uma imagem diferente no **Header**.
 2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
 
@@ -51,10 +58,10 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 |Oftalmologia | 08h - 19h  | 08h - 18h | - |
 |||||
 
-3. **Menu** e **Footer** padrões em todas as páginas.
-
+3.**Menu** e **Footer** padrões em todas as páginas.
 
 ### Contato
+
 1. Deve ter uma imagem diferente no **Header**.
 2. Em **Content** deve ter:
     - Os telefones de contato (celular e whatsapp)
@@ -69,6 +76,6 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
+Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site!
 
 Bora pra cima!
